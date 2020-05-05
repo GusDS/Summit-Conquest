@@ -18,12 +18,12 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         Pick up Powerup Flame: Charged Bomb. No time limit, detonate with space while jumping.
         +1 life with each 20000 points mark.
 
-        Move Forward:		(keyboard) W or keyUp			/ (mouse) LeftClick
-        Move Backward:		(keyboard) S or keyDown
-        Turn Camera:		(keyboard) A+D or keyLeft+keyRight	/ (mouse) LeftRight Axis
-        Jump:			(keyboard) Space			/ (mouse) RightClick
-        Keyboard On/Off:	(keyboard) F1
-        Mouse On/Off:		(keyboard) F2
+        Move Forward:           (keyboard) W or keyUp                   / (mouse) LeftClick
+        Move Backward:          (keyboard) S or keyDown
+        Turn Camera:            (keyboard) A+D or keyLeft+keyRight      / (mouse) LeftRight Axis
+        Jump:                   (keyboard) Space                        / (mouse) RightClick
+        Keyboard On/Off:        (keyboard) F1
+        Mouse On/Off:           (keyboard) F2
 
 ### Score:
         Small Enemy             100

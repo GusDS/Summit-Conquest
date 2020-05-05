@@ -1,21 +1,24 @@
 # Summit-Conquest
 Summit Conquest (Unity CwCL Prototype 4) Version 1.0
+
 Unity Course: Create with Code Live
+
 Week 5: Gameplay Mechanics | Apr 20 - 24 (2020)
 
 ## 1) Overview:
 Based on the course prototype, I made a full game adding a lot of features built from the ground, learning A LOT in the process.
+
 (from Course description):
 This week, you will program an arcade-style Sumo battle with the objective of knocking increasingly difficult waves of enemies off of a floating island, using power ups to help defeat them. In creating this prototype, you will learn how to implement new gameplay mechanics into your projects, which are new rules or systems that make the game more interesting to play. On one hand, you will learn to program a powerup, which give the player a temporary advantage. On the other hand, you will learn to program increasingly difficult enemy waves, which make survival more challenging for the player. A good balance of powerups and increasing difficulty make for a much more interesting gameplay experience.  
 
 ## 2) Game Instructions:
 Survive continually increasing enemies for 2 minutes. You have 3 lives to get the highest score.
 
-Pick up Powerup X (multiply): Super Push for 10 seconds.
-Pick up Powerup Flame: Charged Bomb. No time limit, detonate with space while jumping.
-+1 life with each 20000 points mark.
+        Pick up Powerup X (multiply): Super Push for 10 seconds.
+        Pick up Powerup Flame: Charged Bomb. No time limit, detonate with space while jumping.
+        +1 life with each 20000 points mark.
 
-Score:
+### Score:
         Small Enemy             100
         Big Enemy              2000
         Cannon Ball              50
@@ -23,17 +26,17 @@ Score:
         Charged Bomb collect    300
         Level win              5000 (+ 10 points x seconds)
 
-Move Forward:		(keyboard) W or keyUp			/ (mouse) LeftClick
-Move Backward:		(keyboard) S or keyDown
-Turn Camera:		(keyboard) A+D or keyLeft+keyRight	/ (mouse) LeftRight Axis
-Jump:			(keyboard) Space			/ (mouse) RightClick
-Keyboard On/Off:	(keyboard) F1
-Mouse On/Off:		(keyboard) F2
+        Move Forward:		(keyboard) W or keyUp			/ (mouse) LeftClick
+        Move Backward:		(keyboard) S or keyDown
+        Turn Camera:		(keyboard) A+D or keyLeft+keyRight	/ (mouse) LeftRight Axis
+        Jump:			(keyboard) Space			/ (mouse) RightClick
+        Keyboard On/Off:	(keyboard) F1
+        Mouse On/Off:		(keyboard) F2
 
-statistics:
-Player                                  : HIST: hiscore / total score added / levels passed / seconds survived / lives lost
-Enemy beaten (big, small, cannonball)   : Current game / total
-Powerup collected                       : idem
+### statistics:
+        Player: HIST: hiscore / total score added / levels passed / seconds survived / lives lost
+        Enemy beaten (big, small, cannonball): Current game / total
+        Powerup collected: idem
 
 ## 3) Project work (features, modifications, settings):
 - Project Settings: Graphics High (Tier 3) unchecked Cascade Shadows (recurring issue detected with objects' visible border).
@@ -101,4 +104,5 @@ Powerup collected                       : idem
         red_cross
 
 YouTube:
+
 GitHub: https://github.com/GusDS/Summit-Conquest

@@ -3,12 +3,12 @@ Summit Conquest (Unity CwCL Prototype 4) Version 1.0
 Unity Course: Create with Code Live
 Week 5: Gameplay Mechanics | Apr 20 - 24 (2020)
 
-#1) Overview:
+## 1) Overview:
 Based on the course prototype, I made a full game adding a lot of features built from the ground, learning A LOT in the process.
 (from Course description):
 This week, you will program an arcade-style Sumo battle with the objective of knocking increasingly difficult waves of enemies off of a floating island, using power ups to help defeat them. In creating this prototype, you will learn how to implement new gameplay mechanics into your projects, which are new rules or systems that make the game more interesting to play. On one hand, you will learn to program a powerup, which give the player a temporary advantage. On the other hand, you will learn to program increasingly difficult enemy waves, which make survival more challenging for the player. A good balance of powerups and increasing difficulty make for a much more interesting gameplay experience.  
 
-#2) Game Instructions:
+## 2) Game Instructions:
 Survive continually increasing enemies for 2 minutes. You have 3 lives to get the highest score.
 
 Pick up Powerup X (multiply): Super Push for 10 seconds.
@@ -35,7 +35,7 @@ Player                                  : HIST: hiscore / total score added / le
 Enemy beaten (big, small, cannonball)   : Current game / total
 Powerup collected                       : idem
 
-#3) Project work (features, modifications, settings):
+## 3) Project work (features, modifications, settings):
 - Project Settings: Graphics High (Tier 3) unchecked Cascade Shadows (recurring issue detected with objects' visible border).
 - Environment: Lighting changed. FX_Mist particle system color and other modifications.
 - UI: Added keyboard+mouse icons, input devices can be both set active/inactive through keys F1 and F2.
@@ -54,7 +54,7 @@ Powerup collected                       : idem
 - Title screen with Game Instructions.
 - Documentation, version control, public release.
 
-#4) To Do:
+## 4) To Do:
 - Code: Use Object Pooler for instantiate prefabs.
 - Game: Difficulty progression (more time to survive, less powerups?, IA?).
 - IA: Bigger enemies try to avoid falling down.
@@ -71,12 +71,12 @@ Powerup collected                       : idem
         .Statistics panel slow mouse wheel scroll
         .Code: some twisted code, product of learning on the go (mainly with parallel "Update" routines)
 
-#5) Code/Screenshots:
+## 5) Code/Screenshots:
 
-#6) Resources and Links:
-        # Font
+## 6) Resources and Links:
+        ### Font
         https://www.1001freefonts.com/data-control.font
-        # Sounds and Music:
+        ### Sounds and Music:
         https://freesound.org/people/montblanccandies/sounds/271623/            -- Music Background
         https://freesound.org/people/Raclure/sounds/483602/                     -- Bump
         https://freesound.org/people/Cman634/sounds/198784/                     -- Powerup Collect
@@ -86,12 +86,12 @@ Powerup collected                       : idem
         https://freesound.org/people/ProjectsU012/sounds/340960/                -- Enemy Big Fire
         https://freesound.org/people/JohanDeecke/sounds/369529/                 -- Cannon Ball Explode
         https://freesound.org/people/KeyKrusher/sounds/154953/                  -- Beep
-        # Particle Effects:
+        ### Particle Effects:
         (Explosion) Dust, Shockwave and Shower, from Unity Standard Assets
-        # Mouse and Keyboard Icons
+        ### Mouse and Keyboard Icons
         https://www.pngfuel.com/free-png/guvkk
         https://www.clipartmax.com/png/full/114-1148459_%C2%A0-keyboard-icon-png-blue.png
-        # Kenney Assets (https://kenney.nl/). Icons:
+        ### Kenney Assets (https://kenney.nl/). Icons:
         audioOn/audioOff
         musicOn/MusicOff
         grey_sliderUp/grey_sliderHorizontal

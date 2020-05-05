@@ -18,6 +18,13 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         Pick up Powerup Flame: Charged Bomb. No time limit, detonate with space while jumping.
         +1 life with each 20000 points mark.
 
+        Move Forward:		(keyboard) W or keyUp			/ (mouse) LeftClick
+        Move Backward:		(keyboard) S or keyDown
+        Turn Camera:		(keyboard) A+D or keyLeft+keyRight	/ (mouse) LeftRight Axis
+        Jump:			(keyboard) Space			/ (mouse) RightClick
+        Keyboard On/Off:	(keyboard) F1
+        Mouse On/Off:		(keyboard) F2
+
 ### Score:
         Small Enemy             100
         Big Enemy              2000
@@ -26,14 +33,7 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         Charged Bomb collect    300
         Level win              5000 (+ 10 points x seconds)
 
-        Move Forward:		(keyboard) W or keyUp			/ (mouse) LeftClick
-        Move Backward:		(keyboard) S or keyDown
-        Turn Camera:		(keyboard) A+D or keyLeft+keyRight	/ (mouse) LeftRight Axis
-        Jump:			(keyboard) Space			/ (mouse) RightClick
-        Keyboard On/Off:	(keyboard) F1
-        Mouse On/Off:		(keyboard) F2
-
-### statistics:
+### Statistics:
         Player: HIST: hiscore / total score added / levels passed / seconds survived / lives lost
         Enemy beaten (big, small, cannonball): Current game / total
         Powerup collected: idem
@@ -77,9 +77,11 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
 ## 5) Code/Screenshots:
 
 ## 6) Resources and Links:
-        ### Font
+
+### Font
         https://www.1001freefonts.com/data-control.font
-        ### Sounds and Music:
+        
+### Sounds and Music:
         https://freesound.org/people/montblanccandies/sounds/271623/            -- Music Background
         https://freesound.org/people/Raclure/sounds/483602/                     -- Bump
         https://freesound.org/people/Cman634/sounds/198784/                     -- Powerup Collect
@@ -89,12 +91,15 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         https://freesound.org/people/ProjectsU012/sounds/340960/                -- Enemy Big Fire
         https://freesound.org/people/JohanDeecke/sounds/369529/                 -- Cannon Ball Explode
         https://freesound.org/people/KeyKrusher/sounds/154953/                  -- Beep
-        ### Particle Effects:
+        
+### Particle Effects:
         (Explosion) Dust, Shockwave and Shower, from Unity Standard Assets
-        ### Mouse and Keyboard Icons
+        
+### Mouse and Keyboard Icons
         https://www.pngfuel.com/free-png/guvkk
         https://www.clipartmax.com/png/full/114-1148459_%C2%A0-keyboard-icon-png-blue.png
-        ### Kenney Assets (https://kenney.nl/). Icons:
+        
+### Kenney Assets (https://kenney.nl/). Icons:
         audioOn/audioOff
         musicOn/MusicOff
         grey_sliderUp/grey_sliderHorizontal
@@ -103,6 +108,6 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         grey_checkmarkWhite
         red_cross
 
-YouTube:
+### YouTube:
 
-GitHub: https://github.com/GusDS/Summit-Conquest
+### GitHub: https://github.com/GusDS/Summit-Conquest

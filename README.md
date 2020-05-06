@@ -108,6 +108,10 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
         grey_checkmarkWhite
         red_cross
 
-### YouTube:
+### YouTube: https://youtu.be/kkSuaYNGmhg
 
 ### GitHub: https://github.com/GusDS/Summit-Conquest
+
+### Unity Connect: https://connect.unity.com/p/summit-conquest-1
+
+### Play WebGL version: https://connect.unity.com/mg/other/summit-conquest

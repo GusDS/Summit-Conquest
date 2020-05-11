@@ -65,6 +65,7 @@ Survive continually increasing enemies for 2 minutes. You have 3 lives to get th
 - Powerups: timer float counter.
 - Instructions + Statistics: add icons and better design
 - Control: tweak for gamepad control (assign rotate view to right stick)
+- Control: Add mouse/camera sensibility setting
 - Fix:
         .Enemy: too much aceleration sometimes.
         .Audio slider not always plays sample sound right.
